@@ -4,16 +4,16 @@ var Todo = require('./models/todo.js');
 
 var data = [
 	{
-		name: "Go to the supermarket"
+		name: "Study JavaScript"
 	},
 	{
 		name: "Go to the Gym"
 	},
 	{
-		name: "Study Udemy"
+		name: "Watch NBA"
 	},
 	{
-		name: "Send a message to Colt"
+		name: "Make a cake for my sister birthdays"
 	}
 
 ]
